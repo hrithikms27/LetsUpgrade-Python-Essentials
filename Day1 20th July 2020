@@ -1,0 +1,20 @@
+𝐐 𝟏. 𝐖𝐡𝐚𝐭 𝐢𝐬 𝐩𝐲𝐭𝐡𝐨𝐧? 𝐰𝐡𝐚𝐭 𝐚𝐫𝐞 𝐭𝐡𝐞 𝐰𝐚𝐲𝐬 𝐭𝐨 𝐢𝐧𝐬𝐭𝐚𝐥𝐥 𝐩𝐲𝐭𝐡𝐨𝐧 𝐨𝐧 𝐲𝐨𝐮𝐫 𝐏𝐂?
+
+ANS-Python is a general purpose high level programming language . It can be used for console application ,desktop application,Web app, Mobile app,Machine learning,IOT applications.
+
+There are many ways to install python in PC:
+1. Can directly download the installation package from Python.org
+
+2. Download IDE based python which has in-built libraries such as Anaconda distribution which has several in-built libraries
+
+3. Various other IDEs are available.
+
+𝐐𝟐 𝐖𝐡𝐚𝐭 𝐚𝐫𝐞 𝐭𝐡𝐞 𝐂𝐨𝐝𝐞 𝐄𝐧𝐯𝐢𝐫𝐨𝐧𝐦𝐞𝐧𝐭𝐬? 𝐚𝐧𝐝 𝐢𝐭𝐬 𝐓𝐲𝐩𝐞𝐬.
+
+ANS- A code environment is a standalone and self-contained environment to run Python. Each code environment has its own set of packages.
+
+There are mainly 3 types of environments:
+
+> Text Editors (sublime,notepad,atom)
+> Full IDEs (spyder, pycharm)
+> Notebook Environment (Jupyter notebook)
