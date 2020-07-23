@@ -1,0 +1,139 @@
+Input:
+#helloworld
+"""hello hrithik"""
+O/p:
+'hello hrithik'
+======================
+Input:
+print("hello\
+      world")
+O/p:hello      world
+========================
+Input:
+print("python's world")
+O/P:python's world
+===================
+SPACES
+==================
+Input:
+print("python\tworld")
+O/p:python	world
+=================
+NEW LINE
+=================
+Input:
+print("Hello\nworld")
+O/p: Hello
+     world
+==================
+Formated output
+==================
+Input:
+name="HRITHIK"
+age=20
+marks=80.76
+print(f"The name of person is {name} age is {age} the marks is {marks}")
+O/p:The name of person is HRITHIK age is 20 the marks is 80.76
+-----------------------------------------------------------------------------
+
+Input:
+print("The name of person is %10s marks is %10.2f age is %10d"%(name,marks,age))
+The name of person is      HRITHIK marks is      80.76 age is         20
+------------------------------------------------------------------------------------
+
+
+Input:
+5**5
+O/p:
+3125
+------------------------------------
+Input:
+10+20
+O/p:
+30
+------------------------------
+Inpu:
+10-20
+O/p:
+-10
+----------------------------
+Input:
+10/2
+O/p:
+5.0
+----------------------------------
+Input:
+10/3
+O/p:
+3.3333333333333335
+------------------------
+Input:
+10%3
+O/p:
+1
+-----------------------------------
+Input:
+10//3
+O/p:3
+--------------------------------------
+Input:
+a=10
+b=20
+a==b
+O/p:False
+--------------------------------------------
+Input:
+c=10
+a==c
+O/p:True
+-------------------------------------------------
+Input:c<=a
+O/p:True
+----------------------------------
+Input:a>=b
+O/p:False
+---------------------------
+Input:a!=b
+O/p:True
+------------------------------
+Input:str1="pythonprogramming"
+"x" in str1
+O/p:False
+------------------------------
+Input:a=10
+b=10
+a==b
+O/p:True
+---------------------------
+Input:a is b
+O/p:True
+----------------------------
+Input:id(a)
+O/p:140710431269552
+--------------------------
+Input:id(b)
+O/p:140710431269552
+---------------------------
+Input:x=1.5
+y=1.5
+x==y
+O/p:True
+--------------------------
+Input:x is y
+O/p:False
+----------------------------
+Input:id(x)
+O/p:1271098349264
+-----------------------
+Input:id(y)
+O/p:1271098349872
+----------------------
+Input:a=257
+b=257
+a==b
+O/p:True
+----------------------
+Input:a is b
+O/p:False
+Input:10>8
+O/p:True
