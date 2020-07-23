@@ -1,0 +1,16 @@
+Q:- Explain 
+i) isupper():- isupper() is a built-in method .isupper() methods returns True if all characters in the string are uppercase or it returns False.
+
+EG:Input : string = 'WHATSMYNAME'
+Output : True
+
+Input : string = 'whatsmyname'
+Output : False
+
+ii)islower():-islower() is a built-in method.The islower() methods returns True if all characters in the string are lowercase or, it returns False.
+
+EG:Input : string = 'WHATSMYNAME'
+Output : False
+
+Input : string = 'whatsmyname'
+Output : True
