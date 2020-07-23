@@ -14,3 +14,12 @@ Output : False
 
 Input : string = 'whatsmyname'
 Output : True
+
+
+Q:Find the occurence of substring i the given string
+
+import re
+str1="what we think we become; we are Python programmer"
+substr = "we"
+res = [i.start() for i in re.finditer(substr,str1)] 
+print(res)
