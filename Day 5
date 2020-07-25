@@ -1,0 +1,21 @@
+Q1:Sort the list in ascending order but all the zeros should be at the right hand side
+
+ANS:
+>>> list1=[0,1,2,10,4,1,0,56,2,0,1,3,0,56,0,4]
+
+>>> list1.sort(reverse=1)
+
+>>> print(list1)
+[56, 56, 10, 4, 4, 3, 2, 2, 1, 1, 1, 0, 0, 0, 0, 0]
+
+>>> 
+
+Q2:Merge these two sorted list produce one sorted list, but use only one loop either while or for only one time.
+ANS:
+>>> list2=[10,20,40,60,70,80]
+>>> list3=[5,15,25,35,45,60]
+>>> res=sorted(list2+list3)
+>>> print("The combined sorted list is:"+str(res))
+
+The combined sorted list is:[5, 10, 15, 20, 25, 35, 40, 45, 60, 60, 70, 80]
+>>> 
